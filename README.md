@@ -2,6 +2,11 @@
 Repositorio de prueba 1 para comandos de git
 ## Autores
 * Agustina **Araya**
+
+
+## Contenido/Descripción
+
+
 | Email | Autores |
 | ------------- | ------------- |
 | 2009248@gmail.com  | Agustina  |
